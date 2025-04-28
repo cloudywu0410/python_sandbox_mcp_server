@@ -1,0 +1,9 @@
+[project]
+name = "python-sandbox-mcp-server"
+version = "0.1.0"
+description = "python-sandbox-mcp-server"
+readme = "README.md"
+requires-python = ">=3.11"
+dependencies = [
+    "fastmcp>=2.2.5",
+]
