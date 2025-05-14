@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/cloudywu0410-python-sandbox-mcp-server-badge.png)](https://mseep.ai/app/cloudywu0410-python-sandbox-mcp-server)
+
 # Python Sandbox MCP Server
 
 A secure Python code execution server that enables LLMs to run Python code safely in isolated
